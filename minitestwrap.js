@@ -34,5 +34,4 @@ var minitestwrap = {
   }
 };
 
-
 module.exports = minitestwrap;
