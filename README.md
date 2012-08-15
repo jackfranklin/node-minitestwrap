@@ -32,3 +32,8 @@ minitestwrap.run();
 ```
 
 If you'd like a proper example, I use the library in my [NodeFetch](https://github.com/jackfranklin/nodefetch) project.
+
+
+And here's how it looks:
+
+![](http://cl.ly/image/392K1w0G2S0Z/Screen%20Shot%202012-08-15%20at%2022.29.30.png)
