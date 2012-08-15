@@ -1,0 +1,14 @@
+{
+  "name": "minitestwrap",
+  "version": "0.1",
+  "description": "A tiny wrapper around Node's assert library",
+  "author": "Jack Franklin",
+  "engines": {
+    "node": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jackfranklin/node-minitestwrap.git"
+  },
+}
+
